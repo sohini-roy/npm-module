@@ -2,6 +2,7 @@ const test = require('tap').test
 
 const generateRandomString = require('../index')
 
+<<<<<<< HEAD
 test('smoke test', function (t) {
   const string = generateRandomString()
   t.is(typeof string, 'string')

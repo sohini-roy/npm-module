@@ -1,5 +1,6 @@
 module.exports = generateRandomString
 
+<<<<<<< HEAD
 const adjectives = require('adjectives')
 const animals = require('animals')
 const randomNumber = require('random-number-in-range')
